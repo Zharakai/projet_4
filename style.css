@@ -493,6 +493,10 @@ button {
     color: rgb(15, 15, 15);
 }
 
+.p__footer__link {
+    font-size: 1.4rem;
+}
+
 .panel-sq,
 .panel-sq .panel-heading,
 .panel-sq .panel-footer {
