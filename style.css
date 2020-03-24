@@ -47,6 +47,8 @@ a:hover {
     padding: 20px 50px;
 }
 
+
+
 .bg-t-edge,
 .bg-repeat {
     -webkit-background-size: auto!important;
@@ -175,8 +177,15 @@ a:hover {
     padding-left: 0;
 }
 
+/* Blocs */
+
 #bloc-1-hero h1 {
     font-size: 32px;
+}
+
+#bloc-7 div {
+    display: flex;
+    flex-direction: column;
 }
 
 /* Barre de navigation */
