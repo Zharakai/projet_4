@@ -316,8 +316,6 @@ nav .caret {
     margin: 0 5px;
 }
 
-/* Fin barre de navigation */
-
 .dropdown-menu .dropdown-menu {
     top: -8px;
     left: 100%;
@@ -338,6 +336,12 @@ nav .caret {
     border-bottom-color: transparent;
     margin: 6px -5px 0 0!important;
     float: right;
+}
+
+/* Fin barre de navigation */
+
+blockquote p { /* Citation */
+    font-size: 1.7rem;
 }
 
 .mg-md {
