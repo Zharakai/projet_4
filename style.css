@@ -344,6 +344,10 @@ blockquote p { /* Citation */
     font-size: 1.7rem;
 }
 
+blockquote footer {
+    color: #0a0a0a;
+}
+
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
